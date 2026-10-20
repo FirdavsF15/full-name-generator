@@ -33,6 +33,7 @@ public class FullNameApplication {
             fullName += ", " + suffix;
         };
 
+
         System.out.println(fullName);
 
     }
